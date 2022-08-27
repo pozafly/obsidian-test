@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "149785188950205d",
+        "id": "46b8034fe1f74178",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "하잉.md",
-            "mode": "source",
-            "source": false
+            "file": ".obsidian/workspace",
+            "staged": false
           }
         }
       }
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "하잉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "하잉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +122,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "하잉.md"
-              }
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0107154564a1244f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab02f0f18cd0fe13",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "46708e64d2d62ac7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -138,28 +156,13 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "0107154564a1244f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46708e64d2d62ac7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "149785188950205d",
+  "active": "ab02f0f18cd0fe13",
   "lastOpenFiles": [
     "하잉.md",
     "2022-08-08.md",
