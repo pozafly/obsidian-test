@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "cd7758958a8cbed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f80eadaa60d0b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "하잉.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d031a33d08c4e7ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3e0a0cd429a2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b868606838f56f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bc58ac77fac88a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79102d03b6bd4aa3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "b4c60a4c77951111",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c043021e3cf54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5ba221203909031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "하잉.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bca887aea08c6e16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "하잉.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d2c81ddfad0f039",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "223fca96e574cc33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "하잉.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "94f80eadaa60d0b7",
+  "lastOpenFiles": [
+    "하잉.md",
+    "2022-08-08.md"
+  ]
+}
