@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "94f80eadaa60d0b7",
+        "id": "149785188950205d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#개발자/이렇게",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c2e9858daf2c1727",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,6 +129,29 @@
                 "file": "하잉.md"
               }
             }
+          },
+          {
+            "id": "8b6168c125e94cbc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "0107154564a1244f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46708e64d2d62ac7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -127,9 +159,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d5ba221203909031",
+  "active": "149785188950205d",
   "lastOpenFiles": [
     "하잉.md",
-    "2022-08-08.md"
+    "2022-08-08.md",
+    "새폴더/ㅇㄴㅁㅁㄴㅇㄹ.md",
+    "무제노트.md"
   ]
 }

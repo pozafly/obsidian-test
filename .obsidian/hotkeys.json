@@ -7,5 +7,13 @@
       "key": "/"
     }
   ],
-  "editor:toggle-comments": []
+  "editor:toggle-comments": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
 }
