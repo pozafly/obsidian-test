@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "46b8034fe1f74178",
+        "id": "715c8ff0f7274497",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": ".obsidian/workspace",
-            "staged": false
+            "file": "히힣.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#개발자/이렇게",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "히힣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "히힣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "히힣.md"
+              }
             }
           }
         ],
@@ -162,7 +166,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab02f0f18cd0fe13",
+  "active": "715c8ff0f7274497",
   "lastOpenFiles": [
     "하잉.md",
     "2022-08-08.md",
